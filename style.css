@@ -1,3 +1,5 @@
+/* universal styles */
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #dad7cd;
@@ -9,6 +11,8 @@ body {
  h3 {
     color: #588157;
  }
+
+ /* home page styles */
 
  .home-links {
     display: inline-block;
@@ -22,6 +26,8 @@ body {
  .home-image {
     border-radius: 30% 40% 20% 55%;
  }
+
+ /* recipe page styles */
 
  .ramen-image {
     border-radius: 40% 20% 55% 20%;
