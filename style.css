@@ -2,14 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #dad7cd;
     color: #344e41;
-    width: 720px;
+    width: 600px;
     margin: 0 auto;
 }
-.centered-image {
-    display: block;
-    margin: 0 auto;
-   
-}
+
  h3 {
     color: #588157;
  }
