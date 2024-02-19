@@ -19,4 +19,21 @@ body {
     color: #588157;
  }
 
+ .home-image {
+    border-radius: 30% 40% 20% 55%;
+ }
+
+ .ramen-image {
+    border-radius: 40% 20% 55% 20%;
+ }
+
+ .mochi-image {
+    border-radius: 70% 20% 40% 40%;
+ }
+
+ .sushi-image {
+ border-radius: 30% 70% 20% 40%;
+ }
+
+
  
